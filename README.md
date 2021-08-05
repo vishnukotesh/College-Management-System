@@ -4,7 +4,7 @@ Description:
 
 This College Management System is a full stack application developed using React in the frontend and Java Spring in the backend. This application is deployed on AWS Elastic Beanstalk.
 
-This application helps a college to manage it's students, instructors and the courses that are offered in a college. 
+This application helps a college to manage it's students, instructors and the courses that are offered in a college. In the home page, it has a summary of the number of students and instructors registered and the total number of courses offered.
 
 Roles:
 
