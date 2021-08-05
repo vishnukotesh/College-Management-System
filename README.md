@@ -10,7 +10,7 @@ Technologies And Frameworks Used:
 
 Frontend: React, Javascript, Formik, HTML, CSS 
 
-Backend: Spring, Spring Boot
+Backend: Spring, RESTful Services, JPA
 
 Database: MySQL
 
