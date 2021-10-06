@@ -4,7 +4,7 @@
 
 This College Management System is a full stack application developed using React in the frontend and Java Spring in the backend with basic access authentication. This application is deployed on Amazon Web Services. You can access the application from the link below. I would like you to try it out and suggestions and feedbacks are always welcome. You can reach me at koteshkv2240@gmail.com. 
 
-http://college-app-frontend.s3-website.us-east-2.amazonaws.com  
+http://college-app-frontend.s3-website.us-east-2.amazonaws.com  (the link is down now, will be back shortly)
 
 This application helps a college to manage it's students, instructors and the courses that are offered. In the home page, it has a summary of the number of students and instructors registered and the total number of courses offered. 
 
