@@ -12,7 +12,7 @@ This application helps a college to manage it's students, instructors and the co
 
 Frontend: ReactJS, Javascript, Formik, HTML, CSS, Bootstrap
 
-Backend: Spring, RESTful Web Services, JPA
+Backend: Spring, RESTful Web Services, JPA, Hibernate
 
 Database: MySQL
 
